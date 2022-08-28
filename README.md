@@ -1,6 +1,6 @@
 # Turtle-Practice-Projects
 The project contains codes of random_walk, spirograph and the famous hirst painting.
-# Table of Content 
+# Table of Contents
 * Description
 * Random Walk
   * Screenshot
