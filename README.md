@@ -18,7 +18,7 @@ All the three projects are created with the help of **library _turtle_ and modul
 Its basically the turtle making random movements North, East, South, or West, each time it progresses by the same distance, but it can at any point choose which direction it wants to go out of the four. Moreover, each time it walks, it's going to pick a different color.
 
 This random walk is something that's used often in mathematics and other disciplines. Therefore it can be used to model various real life situations.
-For example the financial status of a gambler or things like the path of a molecule in a liquid or gas or the search path of a foraging animal, and a whole bunch of other things. For more application [click here](https://en.wikipedia.org/wiki/Random_walk) to this wikipedia article.
+For example the financial status of a gambler or things like the path of a molecule in a liquid or gas or the search path of a foraging animal, and a whole bunch of other things. To refer for more applications [click here](https://en.wikipedia.org/wiki/Random_walk) to this wikipedia article.
 
 * Screenshot
 
